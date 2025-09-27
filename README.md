@@ -1,4 +1,4 @@
-# Netrunner
+# Home Lab config
 Start
 
 Was instaled clean windows 10 after updated to 11 to avoid any problem on old windows
