@@ -1,4 +1,4 @@
-# Home Lab config
+# Home Lab configuration 
 Start
 
 Was instaled clean windows 10 after updated to 11 to avoid any problem on old windows
@@ -18,3 +18,6 @@ After downloaded, installed and updated kali without any problem <img width="190
 
 
 Next step was unexpected because i spent 3 days on new ubuntu version but i faced a lot off errors trying to install and connect Wazuh and Splunk so after i add one more VM version of Ubuntu 24.04 
+
+
+There is My VirtualBox <img width="1920" height="1080" alt="Captura de pantalla 2025-09-27 103627" src="https://github.com/user-attachments/assets/811a99da-dee4-4e75-b8a2-81df3f8cc08a" />
