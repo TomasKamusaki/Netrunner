@@ -13,3 +13,8 @@ Next step Windows 10 Vms + all updates. Gave me some error but was solved turnin
 
 
 <img width="1920" height="972" alt="Captura de pantalla 2025-09-25 141801" src="https://github.com/user-attachments/assets/e6cd8798-c0f8-4ec8-bde9-d3f8e8f28061" />
+
+After downloaded, installed and updated kali without any problem <img width="1903" height="1009" alt="Captura de pantalla 2025-09-27 104250" src="https://github.com/user-attachments/assets/757c59b2-1664-450d-8a6d-64ea40d5fb72" />
+
+
+Next step was unexpected because i spent 3 days on new ubuntu version but i faced a lot off errors trying to install and connect Wazuh and Splunk so after i add one more VM version of Ubuntu 24.04 
